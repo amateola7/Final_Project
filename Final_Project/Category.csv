@@ -1,0 +1,15 @@
+Pos,Side,Lineman,Category
+CB,Def,F,Back
+DE,Def,F,Linebacker
+DT,Def,T,Linemen
+FB,Off,F,Back
+FS,Def,F,Back
+ILB,Def,F,Linebacker
+OG,Off,T,Lineman
+OLB,Off,F,Linebacker
+OT,Off,T,Linemen
+QB,Off,F,QB
+RB,Off,F,Back
+SS,Def,F,Back
+TE,Off,F,Receivers
+WR,Off,F,Receivers
